@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Festivals.API", "Festivals.API\Festivals.API.csproj", "{4A321B81-6B2A-4695-A8E5-A79E729B2EA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTFestivals.API", "RESTFestivals.API\RESTFestivals.API.csproj", "{4A321B81-6B2A-4695-A8E5-A79E729B2EA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Festivals.API.Test", "Festivals.API.Test\Festivals.API.Test.csproj", "{B7D5216A-2AEB-4439-BCD2-CF41CB9585BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTFestivals.API.Test", "RESTFestivals.API.Test\RESTFestivals.API.Test.csproj", "{B7D5216A-2AEB-4439-BCD2-CF41CB9585BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Festivals.CSVConverter", "Festivals.CSVConverter\Festivals.CSVConverter.csproj", "{FB26CCAD-1C23-4CB7-A428-652407192A58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTFestivals.CSVConverter", "RESTFestivals.CSVConverter\RESTFestivals.CSVConverter.csproj", "{FB26CCAD-1C23-4CB7-A428-652407192A58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorgadoAPI.IDP", "MorgadoAPI.IDP\MorgadoAPI.IDP.csproj", "{61450F80-3CDB-4400-8E30-A32F2417539F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDP", "IDP\IDP.csproj", "{61450F80-3CDB-4400-8E30-A32F2417539F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
